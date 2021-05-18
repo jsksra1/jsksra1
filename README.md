@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sravan Kumar
+- 👀 I’m interested in DSP & Audio algorithm implementation, integration and performance optimizations
+- 🌱 I’m currently learning c++, system level integration of DSP
+- 💞️ I’m looking to collaborate on DSP & Audio projects
+- 📫 How to reach me jsksra1@gmail.com
